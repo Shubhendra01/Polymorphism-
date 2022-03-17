@@ -18,3 +18,12 @@ class Govt extends PetrolPrice{
         price.changePrice();
     }
 }
+
+class Teacher {
+    String designation = "Teacher";
+    String collegeName = "Beginnersbook";
+    void does(){
+        System.out.println("Teaching");
+    }
+}
+
