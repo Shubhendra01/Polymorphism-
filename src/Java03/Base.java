@@ -18,6 +18,9 @@ class Child extends Base{
         Child c=new Child();
         c.display();
 
+        @SuppressWarnings("unused")
+                int x;
+
     }
 
 }
