@@ -1,7 +1,5 @@
 package Java03;
-
 import java.util.Scanner;
-
 class divby8 extends Thread {
     @Override
     public void run() {
